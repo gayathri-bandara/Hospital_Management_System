@@ -1,0 +1,19 @@
+select*from Departments
+select*from Doctors
+select*from Patients
+select*from PatientDocuments
+select*from Appointments
+select*from Admissions
+select*from MedicalRecords
+select*from LabTests
+select*from LabRequests
+select*from Medicines
+select*from PharmacyDispenses
+select*from Bills
+select*from BillItems
+select*from Payments
+select*from Employees
+select*from Attendance
+select*from LeaveRecords
+select*from AuditLogs
+
